@@ -53,7 +53,7 @@ Please see the Installation instructions.
 
 = How can I come in contact with you? =
 
-You can find contact details to us on our website [here](https://github.com/innovatordm/wp-hooker)
+You can find contact details to us on our website [here](http://http://www.innovator.se/)
 
 
 == Changelog ==
