@@ -33,6 +33,8 @@ WP Hooker should only be used in a Development environment.
 
 == Screenshots ==
 
+Screenshots of the plugin
+
 1. Options page
 2. Session overview
 3. Session view
@@ -59,7 +61,13 @@ You can find contact details to us on our website [here](https://github.com/inno
 = 1.0 =
 * Initial release
 
+= 1.0.1 =
+* Repository fix for assets
+
 == Upgrade Notice ==
 
 = 1.0 =
 First release!
+
+= 1.0.1 =
+New screenshots!
