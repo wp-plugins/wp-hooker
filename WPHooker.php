@@ -6,7 +6,7 @@ use WPHooker\Classes\HookerAdminRender;
 Plugin Name: WP Hooker
 Plugin URI: http://www.innovator.se
 Description: WP Hooker records all fired WP hooks and their hooked functions, to easily let you debug hook issues!
-Version: 1.0
+Version: 1.0.1
 Author: Innovator Digital Markets AB
 Author URI: http://www.innovator.se
 Text Domain: wp-hooker
